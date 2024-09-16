@@ -1,4 +1,4 @@
-# Responsive Coffee Shop Website Design
-### This design is inspired by the work of [Mr. Web Designer](https://www.youtube.com/@MrWebDesignerAnas). Click [here](https://youtu.be/52sKmRsk7xU) to watch the video.
+# Responsive Chai Shop Website Design
+### This design is inspired by the work of [Bhagwatilal], Check out website and Visit Shop Once.
 
 ![preview img](/preview.png)
